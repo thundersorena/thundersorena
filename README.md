@@ -1,12 +1,12 @@
 <div align="center">
   
-# 👋 Hello, I'm Mohammad
+# 👋 Hello, I'm Pouya
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Algorithm+Problem+Solver;Classical+Music+Lover+%F0%9F%8E%B5" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Front-End+Developer+%F0%9F%92%BB;Full-Stack+Enthusiast;UI%2FUX+Problem+Solver;Clean+Code+Advocate+%E2%9C%A8" alt="Typing SVG" /></a>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mnakhae.ir)
-[![Portfolio 2](https://img.shields.io/badge/PH_Dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://phdev.ir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pouya-ahmadi-952a18354/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pouyaportfolio-six.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pouyaahmadi4747@gmail.com)
 
 </div>
 
@@ -15,18 +15,21 @@
 ## 🚀 About Me
 
 ```typescript
-const mohammad = {
-  pronouns: "he/him",
-  location: "🌍 Building the future",
+const pouya = {
+  role: "Front-End Developer",
+  age: 22,
+  experience: "2 years + full-stack exposure",
+  location: "📍 Tehran, Iran",
   currentFocus: {
-    webDev: ["Next.js", "Node.js", "Bun", "NestJS", "Hono", "Elysia"],
-    ai: ["PyTorch", "NLP", "Machine Learning"],
+    webDev: ["Next.js", "React.js", "TypeScript", "Node.js", "Express.js"],
+    uiFrameworks: ["Material-UI", "TailwindCSS", "shadcn"],
+    apis: ["GraphQL", "RESTful APIs"],
   },
-  learning: ["Natural Language Processing", "n8n Automation"],
-  interests: ["Algorithms", "Classical Music 🎼", "Innovation"],
-  collaboration: "Open to innovative and impossible ideas! 🚀",
-  askMeAbout: ["Algorithms", "Web Development", "AI/ML", "System Design"],
-  funFact: "I debug with classical music in the background 🎵",
+  learning: ["GSAP Animations", "Three.js", "Advanced UI/UX"],
+  interests: ["Clean Code", "Responsive Design", "Problem Solving"],
+  collaboration: "Open to collaboration and new challenges! 🚀",
+  askMeAbout: ["React", "Next.js", "Full-Stack Development", "UI Design"],
+  funFact: "I build user-centered solutions with Figma & code 🎨",
 };
 ```
 
@@ -46,28 +49,55 @@ const mohammad = {
 ### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-FF6C37?style=for-the-badge&logo=hono&logoColor=white)
-![Elysia](https://img.shields.io/badge/Elysia-4B32C3?style=for-the-badge&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 AI & Data Science
+### 🎨 UI Libraries & Animation
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🗄️ Database & Tools
+### 🗄️ Tools & Deployment
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## 💼 Work Experience
+
+### 🏢 Booking Hotel Platform — Multi-Organization System
+
+**itolts** • _Feb 2024 - May 2024_ • Karaj, Iran • [refahinew.com](https://refahinew.com/)
+
+- Built corporate hotel booking platform with **Next.js, MUI, Tailwind, shadcn**
+- Integrated **API Gateway** (GraphQL + REST), implemented caching & pagination
+- Developed role-based access for booking workflows
+- Backend: **Node.js/Express + MySQL** | Deployed on **Vercel** with CI/CD
+
+### 🎛️ Admin Dashboard — Full-Stack Solution
+
+**sirang** • _Jun 2024 - 2024_ • Tehran, Iran
+
+- Created admin dashboard with **Next.js (TypeScript)** + TailwindCSS + shadcn
+- Implemented **CRUD operations**, reporting features, user management
+- Backend integration with **Node.js/Express + MySQL**
+
+### 🛠️ Itols.ir — Online Tool Platform
+
+**itols** • _Jun 2023 - Jun 2024_ • Karaj, Iran • [itols.ir](https://itols.ir/)
+
+- Built responsive interface with **React.js + Material-UI**
+- Integrated **GraphQL API** with optimized state management
+- Focus on responsive design & accessibility
 
 ---
 
@@ -82,40 +112,41 @@ const mohammad = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thundersorena&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thundersorena&theme=tokyo-night&hide_border=true" />
-</div>
-
 ---
 
 ## 🌟 Featured Projects
 
 <div align="center">
 
-### 🌐 Web Projects
+### 💼 Professional Projects
 
-[![RosePhotoArt](https://img.shields.io/badge/🌹_RosePhotoArt-FF1744?style=for-the-badge)](https://rosephotoart.com)
-[![Mano Computer Studio](https://img.shields.io/badge/💻_Mano_Computer_Studio-00BCD4?style=for-the-badge)](https://manocomputer.com)
-[![DomainPeyda](https://img.shields.io/badge/🔍_DomainPeyda-4CAF50?style=for-the-badge)](https://domainpeyda.ir)
+[![Booking Platform](https://img.shields.io/badge/🏨_Booking_Platform-FF6B6B?style=for-the-badge)](https://refahinew.com/)
+[![Itols.ir](https://img.shields.io/badge/🛠️_Itols.ir-4ECDC4?style=for-the-badge)](https://itols.ir/)
+[![Admin Dashboard](https://img.shields.io/badge/🎛️_Admin_Dashboard-95E1D3?style=for-the-badge)](#)
 
-### 🚧 In Development
+### 🎨 Specialized Skills
 
-[![CCRU](https://img.shields.io/badge/🔄_CCRU-FFC107?style=for-the-badge)](https://ccru.ir)
-[![Colabra](https://img.shields.io/badge/🤝_Colabra-9C27B0?style=for-the-badge)](https://colabra.com)
+[![GSAP Animations](https://img.shields.io/badge/✨_GSAP_Animations-88CE02?style=for-the-badge)](#)
+[![Three.js 3D](https://img.shields.io/badge/🎮_Three.js_3D-000000?style=for-the-badge)](#)
+[![UI/UX Design](https://img.shields.io/badge/🎨_UI%2FUX_Design-F24E1E?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-## 📝 Resume & Experience
+## 🎓 Education & Achievements
 
 <div align="center">
 
 | Domain                         | Expertise Level |
 | ------------------------------ | --------------- |
 | 🎨 **Frontend Development**    | ⭐⭐⭐⭐⭐      |
-| ⚙️ **Backend Development**     | ⭐⭐⭐⭐⭐      |
-| 🤖 **Artificial Intelligence** | ⭐⭐⭐⭐        |
+| ⚙️ **Backend Development**     | ⭐⭐⭐⭐        |
+| 🎭 **Animation & 3D Graphics** | ⭐⭐⭐⭐        |
+
+**🎓 Bachelor of Computer Engineering** — Islamic Azad University (2022)
+
+**📄 [View Full Resume →](./RESUME.md)**
 
 </div>
 
@@ -123,33 +154,30 @@ const mohammad = {
 
 ## 🎯 What I'm Up To
 
-```python
-class CurrentStatus:
-    def __init__(self):
-        self.working_on = [
-            "Building scalable web applications with Next.js",
-            "Developing AI models with PyTorch",
-            "Creating innovative automation workflows with n8n"
-        ]
+```javascript
+const currentStatus = {
+  workingOn: [
+    "🚀 Building responsive web applications with Next.js & TypeScript",
+    "🎨 Creating beautiful UIs with Material-UI, Tailwind & shadcn",
+    "⚡ Developing full-stack solutions with Node.js & Express",
+  ],
 
-        self.learning = [
-            "Advanced NLP techniques",
-            "Workflow automation patterns",
-            "System design at scale"
-        ]
+  learning: [
+    "✨ Advanced GSAP animations",
+    "🎮 Three.js for 3D web experiences",
+    "🔄 GraphQL optimization patterns",
+  ],
 
-        self.open_to = [
-            "Collaborating on innovative projects",
-            "Making impossible ideas reality",
-            "Open source contributions"
-        ]
+  openTo: [
+    "💼 Full-time opportunities",
+    "🤝 Collaborative projects",
+    "🌟 Freelance work",
+  ],
 
-    def get_collaboration_interest(self):
-        return "💡 Have an innovative idea? Let's build it together!"
+  motto: "💡 Building user-centered solutions, one component at a time!",
+};
 
-# Initialize current status
-status = CurrentStatus()
-print(status.get_collaboration_interest())
+console.log(currentStatus.motto);
 ```
 
 ---
@@ -158,10 +186,10 @@ print(status.get_collaboration_interest())
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://mnakhae.ir)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pouya-ahmadi-952a18354/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pouyaahmadi4747@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pouyaportfolio-six.vercel.app/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thundersorena)
 
 </div>
 
@@ -173,9 +201,9 @@ print(status.get_collaboration_interest())
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🎵 Currently Listening To
+### 💼 Open for Opportunities
 
-_"Coding is better with classical music"_ - Mohammad
+_"Building clean, responsive solutions with modern tech"_ - Pouya
 
 ---
 
