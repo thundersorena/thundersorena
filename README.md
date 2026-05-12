@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Pouya
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Front-End+Developer+%F0%9F%92%BB;Full-Stack+Enthusiast;UI%2FUX+Problem+Solver;Clean+Code+Advocate+%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=false&vCenter=true&random=false&width=600&lines=Front-End+Developer+%F0%9F%92%BB;Full-Stack+Enthusiast;UI%2FUX+Problem+Solver;Clean+Code+Advocate+%E2%9C%A8" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pouya-ahmadi-952a18354/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://pouyaportfolio-six.vercel.app/)
@@ -20,14 +20,6 @@
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I like classical music** 🎵
 
-## 🛠️ Skills
-
-**Frontend:** Next.js • React.js • TypeScript • Material-UI • TailwindCSS • shadcn  
-**Backend:** Node.js • Bun • Express.js • NestJS • Hono • RESTful APIs • GraphQL  
-**Database:** MySQL • MongoDB  
-**Tools:** Git • Vercel • Figma • CI/CD  
-**Animation:** GSAP • Three.js • Framer Motion
-
 ## 🌐 My Websites
 
 - ✅ [pouyaportfolio.app](https://pouyaportfolio-six.vercel.app/) - Portfolio
@@ -38,18 +30,6 @@
 - 🟡 Spc - Medical Project
 - 🟡 Babakan-medical - Healthcare
 
-
-
 ## 📄 Resume
 
 **[🔶 Download PDF Resume](./RESUME.pdf)**
-
----
-
-<div align="left">
-
-![Profile Views](https://komarev.com/ghpvc/?username=thundersorena&color=blue&style=flat-square)
-
-**💼 Open for opportunities**
-
-</div>
