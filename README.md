@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   
 # 👋 Hi, I'm Pouya
 
@@ -28,8 +28,6 @@
 **Tools:** Git • Vercel • Figma • CI/CD  
 **Animation:** GSAP • Three.js • Framer Motion
 
----
-
 ## 🌐 My Websites
 
 - ✅ [pouyaportfolio.app](https://pouyaportfolio-six.vercel.app/) - Portfolio
@@ -48,7 +46,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thundersorena&color=blue&style=flat-square)
 
